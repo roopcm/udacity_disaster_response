@@ -86,12 +86,9 @@ The data files associated with this project are from
     3. Run ```python data/etl_process.py data/disaster_messages.csv data/disaster_categories.csv data/disaster.db```
 - Train model
     5. Run ```python models/train.py data/disaster.db models/disaster_model.pkl```
-
 - Start Web app
-    6. Run ```cd app```
-    
-    7. Run ```python run.py```
-    
+    6. Run ```cd app```    
+    7. Run ```python run.py```  
     8. Open web browser and go to http://192.168.0.21:3001/ or http://localhost:3001
 
 ## Screen Shot
