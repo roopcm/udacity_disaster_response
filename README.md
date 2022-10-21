@@ -95,7 +95,7 @@ The data files associated with this project are from
 ## Screen Shot
 
 ![](data_distrib.jpg)
-<!-- ![](count_classify.jpg) -->
+![](count_classify.jpg)
 ![](message-classify.jpg)
 
 --------
