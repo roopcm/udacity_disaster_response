@@ -1,0 +1,10 @@
+langdetect
+pandas
+sqlalchemy
+numpy
+nltk
+Flask
+plotly
+scikit_learn
+dill
+joblib
