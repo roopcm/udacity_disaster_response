@@ -90,10 +90,12 @@ The data files associated with this project are from
     6. Run ```cd app```    
     7. Run ```python run.py```  
     8. Open web browser and go to http://192.168.0.21:3001/ or http://localhost:3001
+    ```
 
 ## Screen Shot
 
-[](data_distrib.jpg)
-[](count_classify.jpg)
-[](message_classify.png)
+![](data_distrib.jpg)
+<!-- ![](count_classify.jpg) -->
+![](message-classify.jpg)
+
 --------
